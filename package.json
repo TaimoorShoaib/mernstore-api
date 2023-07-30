@@ -1,0 +1,32 @@
+{
+  "name": "shopify",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000e\u0000r\u0000n\u0000s\u0000t\u0000o\u0000r\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Taimoor",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "cros": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "joi": "^17.9.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.3.1",
+    "nodemailer": "^6.9.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://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github.com/TaimoorShoaib/mernstore-api.git"
+  }
+}
