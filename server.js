@@ -12,7 +12,7 @@ const cors = require('cors');
 
 const corsOption ={
   credentials: true,
-  origin: ['http://localhost:3000']
+  origin: ['https://mernstore-frontend-six.vercel.app/']
 };
 
 app.use(cookieParser());
