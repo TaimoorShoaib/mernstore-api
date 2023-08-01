@@ -12,7 +12,7 @@ const cors = require('cors');
 
 const corsOption ={
   credentials: true,
-  origin: ['https://mernstore-frontend-six.vercel.app/']
+  origin: ['https://mernstore-frontend-six.vercel.app']
 };
 
 app.use(cookieParser());
